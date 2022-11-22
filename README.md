@@ -1,0 +1,2 @@
+# logicaFuzzy
+Estudando lógica fuzzy
